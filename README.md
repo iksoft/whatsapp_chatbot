@@ -17,7 +17,7 @@ The ikChatBot Flutter package provides an easy way to integrate a customizable c
 
 
 ## Features
-![thumbnail](https://github.com/iksoft/ikchatbot/assets/62053085/bdf6530e-475a-424f-a065-b60cfe8bcdc7)
+![thumbnail](https://github.com/iksoft/whatsapp_chatbot/assets/62053085/c4410320-3c44-4a7b-9404-7ef9a03e2410)
 
 [//]: # (<div align="center">)
 
