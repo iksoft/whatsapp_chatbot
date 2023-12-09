@@ -1,0 +1,25 @@
+name: whatsapp_chatbot
+description:  whatsapp_chatbot is a powerful fully customizable chatbot you can add to your flutter project for all plaftorms
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: any
+  url_launcher: any
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  # To add assets to your package, add an assets section like this:
+  assets:
+    - assets/bg.png
